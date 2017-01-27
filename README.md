@@ -1,4 +1,5 @@
 # Filesaverjs::Rails
+![](http://ruby-gem-downloads-badge.herokuapp.com/filesaverjs-rails)
 
 filesaverjs-rails is a simple gem to add FileSaver.js vendor file to Rails asset pipeline.
 
